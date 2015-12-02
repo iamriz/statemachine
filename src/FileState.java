@@ -1,5 +1,5 @@
 public enum FileState {
-	RELEASED	("0"),
+	RELEASE	("0"),
 	WRITE 		("1"),
 	READ  		("2"),
 	PRE_UPLOAD	("3"),
